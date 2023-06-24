@@ -24,7 +24,7 @@ I performed the following steps in cleaning & preprocessing:-
 3. Short Forms of Marital Status column's data values changed to Full Forms for better understandability. 
 
 
-📌📌 I could also remove columns such as ID, Children, Education and Cars because these columns are not that useful for my analysis. But, I kept them for the time being.  
+📌📌 I could also remove columns such as ID, Children, Education and Cars because these columns are not that useful for my analysis. But, I kept them as the dataset is not that big.  
 
 Now, it's time to wake up your sleeping detective as we are diving into the Analysis World!! 🤠😀
 
