@@ -11,7 +11,7 @@ From now onwards, I will walk you through my project. So, let's begin the journe
 
 ## ✨Project's Objective
 This project aims to help the business in gaining the insights related to various factors that can influence whether someone purchased a bike or not, and also to help them in making data driven decisions. 
-## 📌Data Cleaning & Preprocessing
+## 📌Data Cleaning & Processing
 Before performing the Analysis on the data based on the Research Questions. I would make my hands dirty by cleaning it!!😃😎
 
 I performed the following steps in cleaning & preprocessing:-
