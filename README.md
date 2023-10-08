@@ -14,7 +14,7 @@ This project aims to help the business in gaining the insights related to variou
 ## 📌Data Cleaning & Processing
 Before performing the Analysis on the data based on the Research Questions. I would make my hands dirty by cleaning it!!😃😎
 
-I performed the following steps in cleaning & preprocessing:-
+I performed the following steps in cleaning & processing:-
 
 1. Duplicates Removal
 
