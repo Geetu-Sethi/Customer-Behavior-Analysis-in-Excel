@@ -2,7 +2,7 @@
 ![Logo](https://welovedaily.com/media/pages/resources/35-outstanding-bicycle-illustrations/2273525342-1681375205/bike-illustrations-thumb-1530x1080-q72.jpg)
 
 
-# Bike Buyers Data Analysis in Excel
+# Customer Behavior Analysis in Excel
 
 In this project, I am going to do Data Analysis on the Bikes Buyers dataset.
 
