@@ -4,7 +4,7 @@
 
 # Customer Behavior Analysis in Excel
 
-In this project, I am going to do Data Analysis on the Bikes Buyers dataset.
+In this project, I am going to perform Customer Behavior Analysis on the Bikes Buyers dataset.
 
 From now onwards, I will walk you through my project. So, let's begin the journey!! 😃😃
 
