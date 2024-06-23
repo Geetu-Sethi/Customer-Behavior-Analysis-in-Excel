@@ -16,7 +16,7 @@ Before performing the Analysis on the data based on the Research Questions. I wo
 
 I performed the following steps in cleaning & processing:-
 
-1. Duplicates Removal
+1. Duplicates Removal and trimming the extra spaces.
 
 
 2. Created Categorical Columns by using "Nested IF Function" on Age and Income numerical columns.
