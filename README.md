@@ -34,7 +34,7 @@ Are you ready? Then let's dive in!! 😊😊
 
 
 
-## 🤔Research Questions (Descriptive Analysis)
+## 🤔Research Questions
 
 These are the questions on the basis of which I performed the analysis:  
 1. Which Gender purchased the more number of bikes?
