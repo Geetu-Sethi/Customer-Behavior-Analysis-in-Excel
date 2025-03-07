@@ -29,23 +29,31 @@ The analysis was structured around the following key questions:
 7. How does commute distance impact bike purchases?
 
 ## Findings & Insights
-• Gender: Male customers purchased more bikes than female customers.
 
-• Income Groups:
-• Highest purchases: Customers with an annual income between $10,000-$50,000.
-• Lowest purchases: Customers earning above $100,000.
+1. Gender: Male customers purchased more bikes than female customers.
 
-• Regional Trends:
-• North America had the highest number of bike purchases.
-• Pacific had the lowest.
+2. Income Groups:
 
-• Age Groups:
-• Middle-aged customers had the highest purchase rate.
-• Young adults had the lowest.
+    • Highest purchases: Customers with an annual income between $10,000-$50,000.
 
-• Homeownership Impact: Homeowners were more likely to purchase bikes compared to renters.
+    • Lowest purchases: Customers earning above $100,000.
 
-• Key Influencing Factors:
+3. Regional Trends:
+
+   • North America had the highest number of bike purchases.
+
+   • Pacific had the lowest.
+
+4. Age Groups:
+
+   • Middle-aged customers had the highest purchase rate.
+
+   • Young adults had the lowest.
+
+5. Homeownership Impact: Homeowners were more likely to purchase bikes compared to renters.
+
+## Key Influencing Factors:
+
 • Gender – Male customers showed higher purchase rates.
 
 • Income Level – Low to mid-income groups were more likely to buy.
@@ -62,10 +70,12 @@ The analysis was structured around the following key questions:
 
 
 ## Business Recommendations
-• Regional Strategy: Conduct targeted customer surveys in the Pacific region to understand low purchase rates and identify potential market opportunities.
+
+• Regional Strategy: 
+Conduct targeted customer surveys in the Pacific region to understand low purchase rates and identify potential market opportunities.
 
 • Targeted Promotions:
-• Offer discounts or financing options to young adults and renters, as they belong to lower-income groups with higher financial constraints.
+Offer discounts or financing options to young adults and renters, as they belong to lower-income groups with higher financial constraints.
 
 • Data Collection & Refinement:
 Gather more granular data on commute distances to identify clearer trends and optimize marketing strategies.
