@@ -30,30 +30,43 @@ The analysis was structured around the following key questions:
 
 ## Findings & Insights
 • Gender: Male customers purchased more bikes than female customers.
+
 • Income Groups:
 • Highest purchases: Customers with an annual income between $10,000-$50,000.
 • Lowest purchases: Customers earning above $100,000.
+
 • Regional Trends:
 • North America had the highest number of bike purchases.
 • Pacific had the lowest.
+
 • Age Groups:
 • Middle-aged customers had the highest purchase rate.
 • Young adults had the lowest.
+
 • Homeownership Impact: Homeowners were more likely to purchase bikes compared to renters.
+
 • Key Influencing Factors:
 • Gender – Male customers showed higher purchase rates.
+
 • Income Level – Low to mid-income groups were more likely to buy.
+
 • Age – Middle-aged customers were the primary buyers.
+
 • Homeownership – Homeowners were more inclined to purchase.
+
 • Commute Distance & Purchase Behavior:
+
 • Customers with a commute distance of 0-1 miles had the highest bike purchase rate.
+
 • No strong correlation was observed between increasing commute distance and bike purchases, except for some inconsistencies in the 1-2 mile and 5-10 mile segments. 
 
 
 ## Business Recommendations
 • Regional Strategy: Conduct targeted customer surveys in the Pacific region to understand low purchase rates and identify potential market opportunities.
+
 • Targeted Promotions:
 • Offer discounts or financing options to young adults and renters, as they belong to lower-income groups with higher financial constraints.
+
 • Data Collection & Refinement:
 Gather more granular data on commute distances to identify clearer trends and optimize marketing strategies.
 
