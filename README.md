@@ -9,8 +9,11 @@ This project aims to analyze customer behavior patterns to identify key factors 
 Before conducting the analysis, the dataset was cleaned and preprocessed to ensure accuracy and consistency:
 
 • Removed Duplicates and trimmed extra spaces to maintain data integrity.
+
 • Created Categorical Variables for Age and Income groups using logical conditions.
+
 • Standardized Data Labels by converting short-form marital status values to full-form for better readability.
+
 • Evaluated Column Relevance: Considered dropping ID, Children, Education, and Cars columns due to low analytical value, but retained them as the dataset size was small.
 
 
